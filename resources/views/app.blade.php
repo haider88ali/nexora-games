@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Nexora Games — Simulation, Hyper-Casual & 2D Mobile Games</title>
+    <meta name="description" content="Nexora Games is an indie mobile studio crafting satisfying simulation, hyper-casual and 2D games for iOS and Android.">
+    <meta name="theme-color" content="#07060f">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%237c5cff'/%3E%3Cpath d='M9 23V9l14 14V9' stroke='white' stroke-width='3.5' fill='none' stroke-linejoin='round'/%3E%3C/svg%3E">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700\&family=Inter:wght@400;500;600" rel="stylesheet">
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
+</head>
+<body>
+    <div id="app"></div>
+</body>
+</html>
